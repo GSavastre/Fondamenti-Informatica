@@ -1,0 +1,6 @@
+Python is a <multi-paradigm> <programming language>.
+It is intended to be a highly readable language.
+Its philosophy is summarized by <The Zen of Python>.
+My name is <Jeff> <>. <ma>
+<Vado
+a capo>
